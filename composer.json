@@ -19,10 +19,10 @@
     ],
     "minimum-stability": "dev",
     "require": {
-        "zendframework/zend-mvc":             "2.1.*",
-        "zendframework/zend-servicemanager":  "2.1.*",
-        "zendframework/zend-modulemanager":   "2.1.*",
-        "doctrine/common":                    ">=2.4.*@dev,<2.5.*@dev"
+        "zendframework/zend-mvc":             ">2",
+        "zendframework/zend-servicemanager":  ">2",
+        "zendframework/zend-modulemanager":   ">2",
+        "doctrine/common":                    ">=2.4"
     },
     "require-dev": {
         "zendframework/zend-developer-tools": "dev-master"
